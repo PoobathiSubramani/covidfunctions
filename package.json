@@ -1,0 +1,16 @@
+{
+  "name": "covid19fns",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mongoose": "^5.9.18"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
